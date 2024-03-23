@@ -5,6 +5,6 @@
  Control traffic when pedestrians click the button. 
 
  <h3>Technologies </h3>
-     typescript <br> html  <br> CSS  <br> bootstrap  <br> firebase .
+     typescript <br> html  <br> CSS  <br> bootstrap  <br> firebase.<br>
 
 document link *https://docs.google.com/document/d/1KNMHwk-yk-ZCfpm-C3AHAaO1pd7FFMYr/edit?usp=drivesdk&ouid=104622391533763583881&rtpof=true&sd=true*
