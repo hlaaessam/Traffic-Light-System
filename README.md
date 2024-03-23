@@ -1,5 +1,5 @@
-# Real Time Traffic light System || Dashboard (Angular)
-
+# Real Time Traffic light System || Dashboard 
+<h2> Angular project </h2>
 Traffic is organized and controlled in one way. Additionally two-way roads.<br>
 Control traffic by indicating when vehicles must stop and when they can continue.<br>
 When pedestrians push the button, it regulates traffic flow.<br>
