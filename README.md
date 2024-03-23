@@ -1,8 +1,8 @@
 # Real Time Traffic light System || Dashboard (Angular)
 
- Organized traffic condition and control it in one way. And two-way roads. <br>
- They control the traffic by signaling when vehicles have to stop and when they can go .<br>
- Control traffic when pedestrians click the button. <br>
+Traffic is organized and controlled in one way. Additionally two-way roads.<br>
+Control traffic by indicating when vehicles must stop and when they can continue.<br>
+When pedestrians push the button, it regulates traffic flow.<br>
 
  <h3>Technologies </h3>
      typescript <br> html  <br> CSS  <br> bootstrap  <br> firebase.<br>
